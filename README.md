@@ -1,5 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
-
 # Elsa Karami
 
 <div align="center">
@@ -36,4 +34,3 @@ Skilled in JavaScript, TypeScript, Vue 2, Vue 3, Nuxt.js, Vuex, Pinia, SCSS, PWA
 </br>
 strong engineering professional with a master's degree focused in artificial intelligence from Abrar University of Tehran, Iran.
 I'm always open to take-up new challenges helping me to improve myself and making me move forward.
-<!-- BLOG-POST-LIST:END -->
