@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-Hi, My name is Elsa and I was born in Tehran, I have loved coding since I was a teen. I started to study Computer Software in high school. I remember I wrote code with Visual basic and I taught it to my classmates but now I am a Senior frontend Developer and Researcher with a strong technical background. I've excellent communication, and innovation skills and a demonstrated history of working in the online bookstore, medicine industry, and various software companies.
+Hi, My name is Zahra and I am iranian born and bred actually my nickname is Elsa, I have loved coding since I was a teen. I started to study Computer Software in high school. I remember I wrote code with Visual basic and I taught it to my classmates but now I am a Senior frontend Developer and Researcher with a strong technical background. I've excellent communication, and innovation skills and a demonstrated history of working in the online bookstore, medicine industry, and various software companies.
 </br>
 Skilled in JavaScript, TypeScript, Vue 2, Vue 3, Nuxt.js, Vuex, Pinia, SCSS, PWA, GraphQL, Axios, Rest API, Webpack, Storybook, Ionic, Jest, Cypress, Docker, Node.js, MongoDB, MQTT, Git, JQuery, Figma, Photoshop.
 </br>
