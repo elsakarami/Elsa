@@ -17,9 +17,9 @@
     <a href="https://stackoverflow.com/users/11530419/elsakarami">
       <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.zahra-karami.com/">
+<!--     <a href="https://www.zahra-karami.com/">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Twitter Badge"/>
-    </a>
+    </a> -->
   </div>
 </div>
 </br>
